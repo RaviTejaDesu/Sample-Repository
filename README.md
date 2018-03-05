@@ -1,2 +1,2 @@
 # Sample-Repository
-Sample Text( Commit to the sample test)
+Sample Text (commit)
